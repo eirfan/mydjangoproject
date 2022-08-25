@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-58080-save-picture",
+  "private_key_id": "c6df3cbc5e0bbccf5269314a4a7e597790c74794",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVB8K9I9t3AmLL\nt41HlxEtJ4oUIHFQFVJrUQbqLkdjzDfJy2zmdlDeD1xGgndF4OYloZ5VgSCK6Brj\nwxuQilbcYyKPzRi3JUYSjLW7XJLqM0FX8zrUTExB/pzb74VfSmeWTgEILxQgANHJ\nLyIINtFvyYOphypUzLCNqKdYVD71uOUinsNOiTe/2/ZcyqSIiMua1DvaaUpwkeqk\nfF5gCAbaGfpxP7XRRFcrp27Iti4eVF0E0TdihRlh9ldiBg+L9rnbagrZ9ANcoJ/j\ncNYFK3CC322Z3p4KuSbeIegmumIH3RSyVvfiEQamq7mo9sWi8RQyyHUVTeLrU56u\nLG0b3+apAgMBAAECggEACOD7bV2uun2Xd40tbsPtm9eviho2DtPsrPtiEeWe5Rpw\nYtE/NzXMNg0m1+t9JCT1ArGDQ2YP4Ko+4KpTnkkdyK67FIpEUvHTQ1epBWec2fUL\n7qn9FDcf4IpHqGUJxoh328xhf6FSsejG1Z9IyFXckc+w1KKFEaa8XxMd8nEEdMJO\nA6tOxVX42uoWbSg7fZNQXrG4dOqfsLVWcIM3UsqngTCQODJAvMnaDRX5TWoEZ1X2\nBrCpAw8a/hOvmfIN5yva0jeZ+vEmB4Q3Gt/6HPBUk8F1LWqpcHVb524A/Bafo5Nj\nzQXaFNmIQPCUIWAOyuqUR73LZhO1nHDeQHTQ5V3mRwKBgQD/EePbsKeVGg47NqFe\n6VcvBygP/lOhctlPIDe9C9N93A8uqTuLW94QyuRysASr+Wwy1MvQBfT9nN2Bo03r\n0PEoHITlQLTEF/Fg5BFB9NkyeEmEIFWNjUM6olXH86f7P4c0DYb2CJZN4f6nFbD8\nux6zfi+09WBzIV53BIn1igL63wKBgQDVzqBXIbmBMyQQOaPwfnTconjYP1P5j3SN\nSPmHIhD8qL/T0SgdPXCBbaVhF33ui/dcUHplX3UQpZcDm/seIgtVeeBlOzuAP6XE\n0sEYu/owiZMnS7iAPde75KUlTHXRjzWmH3rCAaDbTqZRa3hg7JEVFs9IgFtOsO+b\neMyn0bTXdwKBgQCZWT8dcGqAOMb/kIuaDT1uN6Y9X1EWSn8dlCgOjxKao3e5PONg\nmF28yM5pqStV3UHQmaDjMwGki++cJfsN4HNsAyFe1vUWw7JJ5zP87GC8eBbyyaHF\n1XzqvnhGG1YNtpbpk4xlVKpQrqMz/tWGTFVb4mx6Jd/Tt+ccNO1gYpYCDwKBgD+m\nMYl+2rChvtytrCZOHxAHth36TE+A61ucG9ykwZXVzrWKEH0T60g8kf0jdzPqqwrq\nUmWXU0xPX3ONneZMkD8z9x9r0LzPNdQwQZfRbhvA+PO70QMsZerjmF5QMsrd7US1\nHmBfB7oB4fVfHwkLo+05Sx/0RjpY5hvMjHBxN3rlAoGBAOQcqcqzzKABQtkr0pXu\ngavDHxyM0YhPCeA1RvoBipoketAx9c/AeIF4DAPqi3jgjUH6jWG3p+dML3cZstoE\nGKfBOsMgKhTaydwsLw1GWseVV/Hpq8pZ89XSOHZBM4ASt8nYmbWZs/FiUw/yLnJ7\n5fafA99kzFF1qZGDvajxL3VC\n-----END PRIVATE KEY-----\n",
+  "client_email": "takepictureservice-203@my-project-58080-save-picture.iam.gserviceaccount.com",
+  "client_id": "107623114711352635336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/takepictureservice-203%40my-project-58080-save-picture.iam.gserviceaccount.com"
+}
